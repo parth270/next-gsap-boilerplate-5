@@ -1,0 +1,28 @@
+.bg-container{
+    width:100%;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    background-color: #f4f4f4;
+}
+
+.container{
+    width:100%;
+    padding: 0 28.92px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.container span{
+    font-size: 18px;
+    line-height: 21.04px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 600;
+}
+
+.container svg{
+    margin-top:7px;
+    width:16.15px;
+    height: 7.17px;
+}

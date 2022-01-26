@@ -1,0 +1,30 @@
+.container{
+    width:100%;
+    height:50px;
+    background-color:#f4f4f4;
+    position:fixed;
+    bottom: 0;
+    z-index: 2;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+@media all and (min-width:450px){
+    .container{
+        display: none;
+    }
+}
+
+.container span{
+    font-size: 16px;
+    line-height:8.05px;
+    font-family: 'Karla', sans-serif;
+}
+
+.container svg{
+    height:16px;
+    margin-left: 20px;
+}

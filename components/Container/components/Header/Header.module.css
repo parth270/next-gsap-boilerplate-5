@@ -1,0 +1,27 @@
+.container{
+    width:100%;
+    min-height: 10px;
+    padding: 0 4%;
+}
+
+@media all and (min-width:300px) and (max-width:450px){
+    .container{
+        padding:0 20px;
+    }
+}
+
+.top{
+    font-size: 22px;
+    line-height: 34px;
+    font-weight: 400;
+    font-family: 'Karla', sans-serif;
+    margin:28px 0 13px 0;
+}
+/* font-family: 'Source Code Pro', monospace; */
+.bottom{
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    margin: 0;
+    width: 220px;
+}

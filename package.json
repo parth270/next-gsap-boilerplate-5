@@ -1,0 +1,25 @@
+{
+  "name": "next-gsap-boilerplate-5",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "mdx-utils": "^0.2.0",
+    "next": "12.0.8",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.2",
+    "react-code-blocks": "^0.0.9-0",
+    "react-copy-to-clipboard": "^5.0.4",
+    "react-dom": "17.0.2",
+    "react-gsap": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8"
+  }
+}

@@ -1,0 +1,12 @@
+.h1{
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 50px;
+}
+
+/* @media all and (min-width:300px) and (max-width:450px){
+    .h1{
+        
+    }
+} */
